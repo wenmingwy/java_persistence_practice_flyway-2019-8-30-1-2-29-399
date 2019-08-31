@@ -1,0 +1,6 @@
+CREATE TABLE employee (
+  id INTEGER PRIMARY KEY,
+  name VARCHAR(255) NOT NULL,
+  age INTEGER NOT NULL,
+  vocation VARCHAR(255) NOT NULL
+);
